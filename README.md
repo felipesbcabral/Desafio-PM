@@ -3,7 +3,6 @@
 <p align="center">
   <a href="#about">Sobre o projeto</a> •
   <a href="#installation">Instalação</a> •
-  <a href="#build-exec">Build e Execução</a> •
   <a href="#author">Autor</a>
 </p>
 
